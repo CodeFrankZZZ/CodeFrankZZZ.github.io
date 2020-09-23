@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Example Post
+title: 勉强的主页
 date: 2019-01-01 00:00:00 +0800
 category: tutorial
 thumbnail: /style/image/thumbnail.png
@@ -8,17 +8,19 @@ icon: book
 ---
 
 
-* content
+  content
 {:toc}
 
-## sub title
+## 一个简单的自述
 
-page...
+性别：雄
+目前专业：数据劳工
+目前就读院校：北大软微
 
-## about thumbnail
+## 随便起个标题
 
-add the thumbnail url
+非标准it男,纠结是否读博，人菜瘾大的loler，狼人杀遗言专业选手。
 
-## about icon
+## emoji？？
 
-such as book, code, web, chat, note, game, link, design, image
+![大概是一张过分帅气的照片](./images/1600846322182.png)
